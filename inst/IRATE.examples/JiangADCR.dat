@@ -1,0 +1,296 @@
+# IRATE Version 1.0
+# Jiang et al., 2007 Table 2 Model b
+# Model Type: Age-dependent
+1
+# Tag Recovery Type 0=har only, 1=har/rel
+1
+# Release Start & End Years
+1991 2002
+# Recapture Start & End Years
+1991 2003
+# Number of ages
+6
+# First Age
+3
+# Total Releases of Age Class 1
+288 380 159 92 221 393 31 131 178 116 116 73
+# Total Releases of Age Class 2
+202 325 721 333 112 352 372 72 221 596 412 442
+# Total Releases of Age Class 3
+217 209 452 593 190 95 210 516 376 543 586 1130
+# Total Releases of Age Class 4
+344 334 285 430 434 171 63 101 245 898 438 709
+# Total Releases of Age Class 5
+310 328 331 189 273 397 75 67 94 413 316 507
+# Total Releases of Age Class 6
+365 384 568 371 374 719 350 280 221 368 551 598
+# Harvest Tag Recovery Data for Age Class 1
+8 3 6 2 3 3 1 1 0 0 0 0 0
+-1 9 3 9 4 4 1 2 0 0 0 0 0
+-1 -1 0 3 7 1 1 0 0 0 0 0 0
+-1 -1 -1 2 4 1 0 0 0 0 0 0 0
+-1 -1 -1 -1 7 6 5 4 1 1 0 0 0
+-1 -1 -1 -1 -1 7 13 11 4 1 2 0 0
+-1 -1 -1 -1 -1 -1 1 0 0 1 0 0 0
+-1 -1 -1 -1 -1 -1 -1 1 0 0 0 0 0
+-1 -1 -1 -1 -1 -1 -1 -1 10 2 1 2 0
+-1 -1 -1 -1 -1 -1 -1 -1 -1 5 0 2 0
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 3 3 0
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 2 3
+# Harvest Tag Recovery Data for Age Class 2
+5 7 2 2 1 1 1 0 0 0 0 0 0
+-1 14 13 9 3 3 0 0 0 0 0 0 0
+-1 -1 15 17 15 8 7 4 3 0 0 0 0
+-1 -1 -1 5 12 4 2 3 0 0 0 0 0
+-1 -1 -1 -1 4 1 3 3 0 2 0 0 0
+-1 -1 -1 -1 -1 20 13 7 1 2 0 0 0
+-1 -1 -1 -1 -1 -1 6 14 0 6 1 1 0
+-1 -1 -1 -1 -1 -1 -1 3 0 0 0 0 0
+-1 -1 -1 -1 -1 -1 -1 -1 9 2 4 1 0
+-1 -1 -1 -1 -1 -1 -1 -1 -1 19 10 3 2
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 14 10 3
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 23 2
+# Harvest Tag Recovery Data for Age Class 3
+5 10 5 3 5 0 1 0 0 0 0 0 0
+-1 6 5 3 2 1 2 0 3 0 0 0 0
+-1 -1 19 19 12 6 4 2 2 1 1 0 0
+-1 -1 -1 32 35 13 11 6 4 3 0 0 0
+-1 -1 -1 -1 14 10 4 2 1 0 0 0 0
+-1 -1 -1 -1 -1 4 3 6 0 1 0 0 0
+-1 -1 -1 -1 -1 -1 19 6 2 4 0 1 0
+-1 -1 -1 -1 -1 -1 -1 39 10 3 4 2 0
+-1 -1 -1 -1 -1 -1 -1 -1 35 8 2 0 0
+-1 -1 -1 -1 -1 -1 -1 -1 -1 34 3 2 0
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 42 17 2
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 54 10
+# Harvest Tag Recovery Data for Age Class 4
+16 21 12 2 6 2 3 3 1 0 0 0 0
+-1 24 12 10 4 1 0 0 2 0 1 0 0
+-1 -1 20 13 8 4 1 1 3 0 0 1 0
+-1 -1 -1 22 21 7 10 5 1 1 0 0 0
+-1 -1 -1 -1 25 20 14 3 4 0 1 0 0
+-1 -1 -1 -1 -1 11 4 4 4 0 1 1 0
+-1 -1 -1 -1 -1 -1 4 3 5 0 0 0 0
+-1 -1 -1 -1 -1 -1 -1 9 4 1 0 0 0
+-1 -1 -1 -1 -1 -1 -1 -1 18 6 2 0 0
+-1 -1 -1 -1 -1 -1 -1 -1 -1 42 16 6 2
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 41 7 2
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 42 16
+# Harvest Tag Recovery Data for Age Class 5
+10 9 8 5 5 3 3 3 1 0 0 0 0
+-1 16 14 6 5 2 2 1 0 0 0 0 0
+-1 -1 15 13 15 5 5 3 2 0 0 0 0
+-1 -1 -1 8 6 2 6 1 5 1 0 0 0
+-1 -1 -1 -1 31 11 6 3 1 3 0 2 1
+-1 -1 -1 -1 -1 28 20 10 4 3 2 0 0
+-1 -1 -1 -1 -1 -1 8 3 2 0 0 0 0
+-1 -1 -1 -1 -1 -1 -1 5 1 4 0 1 0
+-1 -1 -1 -1 -1 -1 -1 -1 11 4 0 0 0
+-1 -1 -1 -1 -1 -1 -1 -1 -1 37 8 3 1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 29 4 1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 39 5
+# Harvest Tag Recovery Data for Age Class 6
+22 12 13 4 4 3 2 1 0 3 0 0 0
+-1 21 13 9 12 5 7 6 3 2 0 0 0
+-1 -1 29 22 21 14 14 6 3 1 2 1 0
+-1 -1 -1 19 18 18 9 12 7 2 2 0 0
+-1 -1 -1 -1 31 12 14 11 4 4 2 0 4
+-1 -1 -1 -1 -1 52 32 32 11 5 5 1 1
+-1 -1 -1 -1 -1 -1 37 19 13 0 2 1 0
+-1 -1 -1 -1 -1 -1 -1 27 11 2 3 2 1
+-1 -1 -1 -1 -1 -1 -1 -1 21 6 8 1 0
+-1 -1 -1 -1 -1 -1 -1 -1 -1 27 11 2 1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 32 11 7
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 29 13
+# Release Tag Recovery Data for Age Class 1
+12 5 5 4 0 0 1 0 0 0 0 0 0
+-1 12 2 3 2 2 0 0 0 0 0 0 0
+-1 -1 5 3 0 0 1 0 0 0 0 0 0
+-1 -1 -1 1 2 2 0 0 0 0 0 0 0
+-1 -1 -1 -1 4 5 2 3 0 0 0 0 0
+-1 -1 -1 -1 -1 16 10 3 1 0 0 0 0
+-1 -1 -1 -1 -1 -1 1 0 0 0 0 0 0
+-1 -1 -1 -1 -1 -1 -1 5 1 0 0 1 0
+-1 -1 -1 -1 -1 -1 -1 -1 11 3 0 0 0
+-1 -1 -1 -1 -1 -1 -1 -1 -1 5 2 0 0
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 9 0 1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 2 1
+# Release Tag Recovery Data for Age Class 2
+6 8 0 3 1 0 1 0 0 0 0 0 0
+-1 10 6 4 3 1 2 1 0 0 0 0 0
+-1 -1 17 24 12 6 2 0 0 0 0 0 0
+-1 -1 -1 13 10 7 1 1 0 0 1 0 0
+-1 -1 -1 -1 3 4 2 1 0 0 0 0 0
+-1 -1 -1 -1 -1 16 5 1 0 1 0 0 0
+-1 -1 -1 -1 -1 -1 12 8 0 1 1 0 0
+-1 -1 -1 -1 -1 -1 -1 1 0 0 0 0 0
+-1 -1 -1 -1 -1 -1 -1 -1 6 5 0 2 0
+-1 -1 -1 -1 -1 -1 -1 -1 -1 38 4 3 0
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 25 3 1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 16 1
+# Release Tag Recovery Data for Age Class 3
+4 6 5 2 1 0 0 0 0 0 0 0 1
+-1 7 5 4 3 1 0 0 0 0 0 0 0
+-1 -1 14 8 4 1 2 0 0 0 0 0 0
+-1 -1 -1 24 11 1 4 2 0 0 0 0 0
+-1 -1 -1 -1 13 4 2 0 0 0 1 0 0
+-1 -1 -1 -1 -1 3 2 3 0 0 0 0 0
+-1 -1 -1 -1 -1 -1 15 7 0 0 0 0 1
+-1 -1 -1 -1 -1 -1 -1 23 7 8 0 0 0
+-1 -1 -1 -1 -1 -1 -1 -1 10 1 2 1 0
+-1 -1 -1 -1 -1 -1 -1 -1 -1 25 0 0 0
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 17 3 0
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 26 6
+# Release Tag Recovery Data for Age Class 4
+14 13 3 4 1 1 0 0 0 0 0 0 0
+-1 22 10 7 2 1 0 0 0 0 0 0 0
+-1 -1 12 8 5 5 0 1 0 0 0 0 0
+-1 -1 -1 24 12 11 0 1 2 0 0 0 0
+-1 -1 -1 -1 25 8 3 3 1 0 0 0 0
+-1 -1 -1 -1 -1 12 5 1 0 0 0 0 0
+-1 -1 -1 -1 -1 -1 6 0 1 0 0 0 0
+-1 -1 -1 -1 -1 -1 -1 6 1 0 0 0 0
+-1 -1 -1 -1 -1 -1 -1 -1 10 4 0 0 0
+-1 -1 -1 -1 -1 -1 -1 -1 -1 43 8 4 0
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 20 1 0
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 18 5
+# Release Tag Recovery Data for Age Class 5
+18 12 6 2 3 0 0 1 0 0 1 0 0
+-1 23 6 4 3 0 1 0 1 0 0 0 0
+-1 -1 16 11 2 3 0 0 0 0 0 0 0
+-1 -1 -1 11 5 3 1 2 1 0 1 0 0
+-1 -1 -1 -1 10 4 2 2 1 0 0 0 0
+-1 -1 -1 -1 -1 24 9 3 1 1 0 0 0
+-1 -1 -1 -1 -1 -1 2 0 0 0 0 0 0
+-1 -1 -1 -1 -1 -1 -1 4 0 0 0 0 0
+-1 -1 -1 -1 -1 -1 -1 -1 1 3 0 0 0
+-1 -1 -1 -1 -1 -1 -1 -1 -1 18 2 1 0
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 5 1 1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 11 2
+# Release Tag Recovery Data for Age Class 6
+13 12 4 2 2 0 0 0 0 0 0 0 0
+-1 18 10 6 2 3 2 0 1 0 0 0 0
+-1 -1 20 11 8 1 1 1 1 0 0 0 0
+-1 -1 -1 13 6 1 0 1 1 0 0 0 1
+-1 -1 -1 -1 8 6 5 3 2 0 0 0 0
+-1 -1 -1 -1 -1 33 11 3 2 1 0 0 0
+-1 -1 -1 -1 -1 -1 11 8 0 1 0 0 0
+-1 -1 -1 -1 -1 -1 -1 7 3 1 2 0 0
+-1 -1 -1 -1 -1 -1 -1 -1 6 2 2 1 0
+-1 -1 -1 -1 -1 -1 -1 -1 -1 12 4 4 1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 12 6 0
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 7 2
+# Hooking Mortality Rates
+0.09 0.09 0.09 0.09 0.09 0.09 0.09 0.09 0.09 0.09 0.09 0.09 0.09
+# Natural Mortality
+# Estimate M? -1= no; >=1=yes
+1
+# Number of M Periods 
+2
+# NM Periods Beginning Years
+1991 1999
+# M Starting Values
+0.15 0.15
+# Assume Incomplete Mixing -1=no; >=1=yes
+-1
+# Fishing Mortality
+# Estimate F? -1= no; >=1=yes
+1
+# Number of F Periods 
+2
+# Original
+2 0.2
+# F Period Beginning Year
+1991 1995
+# F Starting Values
+0.2 0.2
+# Tag Mortality
+# Estimate Ftag? -1= no; 1=yes
+1
+# Number of Ftag Periods 
+13
+# Original
+13 0.2
+# Ftag Period Beginning Year
+1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003
+# Ftag Starting Values
+0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2
+# Combine L1 and L2
+-1
+# Reporting Rate - Harvest
+# Estimate RR HArvest? -1= no; 1=yes
+-1
+# Number of RR Periods 
+1
+# RR Period Beginning Year
+1991
+# RR Harvest Starting Values
+0.43
+# Reporting Rate - Harvest
+# Estimate RR Release? -1= no; 1=yes
+-1
+# Number of RR Periods 
+1
+# RR Period Beginning Year
+1991
+# RR Release Starting Values
+0.43
+# Combine phi1 and phi2
+-1
+# phi - Harvest
+# Estimate phi HArvest? -1= no; 1=yes
+-1
+# Number of phi Periods 
+1
+# phi Period Beginning Year
+1991
+# phi Harvest Starting Values
+1
+# Estimate phi Release? -1= no; 1=yes
+-1
+# Number of phi release Periods 
+1
+# phi Release Beginning Year
+1991
+# phi Release Starting Values
+1
+# Number of nonmix parameters
+1
+# Non Mixing Years
+1991
+# Nonmixing Starting Values
+0.2
+# Selectivity - Harvest
+# Use harvest selectivities for both
+1
+# Estimate selectivities for harvest ages? -1= no; 1=yes
+1
+# Selectivity Harvest Starting Values
+0.5 0.6 0.967 1 1 1
+# Selectivity - Release
+# Estimate selectivities for Release ages? -1= no; 1=yes
+-1
+# Selectivity Release Starting Values
+0.5 0.6 0.967 1 1 1
+# M selectivity
+# Estimate M selectivity? -1= no; >=1=yes
+1
+# Number of M Ages 
+2
+# NM Sel Beginning Ages
+1 4
+# M Selectivity Values
+1 1
+# Use likelihood constant -1=no; 1=year
+1
+# Lower and Upper Boundary Values
+-30.0 1.6
+-30.0 1.6
+-30.0 1.6
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+-30.0 1.6

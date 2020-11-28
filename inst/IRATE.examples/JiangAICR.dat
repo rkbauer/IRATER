@@ -1,0 +1,156 @@
+# IRATE Version 1.0
+# Jiang Dissertation Page 81 Model Fy,F'y,M91-99, M00-03
+# Model Type: Age-independent
+0
+# Tag Recovery Type 0=har only, 1=har/rel
+1
+# Release Start & End Years
+1991  2002
+# Recapture Start & End Years
+1991  2003
+# Number of Ages
+1
+# First Age Class
+1
+# Total Releases
+1019 1046 1184 990 1081 1287 488 448 560 1679 1305 1814
+# Harvest Tag Recovery Data
+48 42 33 11 15 8 8 7 2 3 0 0 0
+-1 61 39 25 21 8 9 7 5 2 1 0 0
+-1 -1 64 48 44 23 20 10 8 1 2 2 0
+-1 -1 -1 49 45 27 25 18 13 4 2 0 0
+-1 -1 -1 -1 87 43 34 17 9 7 3 2 6
+-1 -1 -1 -1 -1 91 56 46 19 8 8 2 1
+-1 -1 -1 -1 -1 -1 49 25 20 0 2 1 0
+-1 -1 -1 -1 -1 -1 -1 41 16 7 3 3 1
+-1 -1 -1 -1 -1 -1 -1 -1 50 16 10 1 0
+-1 -1 -1 -1 -1 -1 -1 -1 -1 106 35 11 4
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 102 22 10
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 110 34
+# Release Tag Recovery Data
+45 37 13 8 6 1 0 1 0 0 1 0 0
+-1 63 26 17 7 4 3 0 2 0 0 0 0
+-1 -1 48 30 15 9 1 2 1 0 0 0 0
+-1 -1 -1 48 23 15 1 4 4 0 1 0 1
+-1 -1 -1 -1 43 18 10 8 4 0 0 0 0
+-1 -1 -1 -1 -1 69 25 7 3 2 0 0 0
+-1 -1 -1 -1 -1 -1 19 8 1 1 0 0 0
+-1 -1 -1 -1 -1 -1 -1 17 4 1 2 0 0
+-1 -1 -1 -1 -1 -1 -1 -1 17 9 2 1 0
+-1 -1 -1 -1 -1 -1 -1 -1 -1 73 14 9 1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 37 8 1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 36 9
+# Hooking Mortality Rates
+0.09 0.09 0.09 0.09 0.09 0.09 0.09 0.09 0.09 0.09 0.09 0.09 0.09
+# Natural Mortality
+# Estimate M? -1= no; >=1=yes
+1
+# Number of M Periods 
+2
+# NM Periods Beginning Years
+1991 2000
+# M Starting Values
+0.15 0.15
+# Assume Incomplete Mixing -1=no; >=1=yes
+-1
+# Fishing Mortality
+# Estimate F? -1= no; >=1=yes
+1
+# Number of F Periods 
+13
+# Original
+13 0.2
+# F Period Beginning Year
+1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003
+# F Starting Values
+0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2
+# Tag Mortality
+# Estimate Ftag? -1= no; 1=yes
+1
+# Number of Ftag Periods 
+13
+# Original
+13 0.2
+# Ftag Period Beginning Year
+1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003
+# Ftag Starting Values
+0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2
+# Combine L1 and L2
+-1
+# Reporting Rate - Harvest
+# Estimate RR HArvest? -1= no; 1=yes
+-1
+# Number of RR Periods 
+1
+# RR Period Beginning Year
+1991
+# RR Harvest Starting Values
+0.43
+# Reporting Rate - Harvest
+# Estimate RR Release? -1= no; 1=yes
+-1
+# Number of RR Periods 
+1
+# RR Period Beginning Year
+1991
+# RR Release Starting Values
+0.43
+# Combine phi1 and phi2
+-1
+# phi - Harvest
+# Estimate phi HArvest? -1= no; 1=yes
+-1
+# Number of phi Periods 
+1
+# phi Period Beginning Year
+1991
+# phi Harvest Starting Values
+1
+# Estimate phi Release? -1= no; 1=yes
+-1
+# Number of phi release Periods 
+1
+# phi Release Beginning Year
+1991
+# phi Release Starting Values
+1
+# Number of nonmix parameters
+1
+# Non Mixing Years
+1991
+# Nonmixing Starting Values
+0.2
+# Selectivity - Harvest
+# Use harvest selectivities for both
+-1
+# Estimate selectivities for harvest ages? -1= no; 1=yes
+-1
+# Selectivity Harvest Starting Values
+0.5
+# Selectivity - Release
+# Estimate selectivities for Release ages? -1= no; 1=yes
+-1
+# Selectivity Release Starting Values
+0.5
+# M selectivity
+# Estimate M selectivity? -1= no; >=1=yes
+-1
+# Number of M Ages 
+1
+# NM Sel Beginning Ages
+1
+# M Selectivity Values
+1
+# Use likelihood constant -1=no; 1=year
+-1
+# Lower and Upper Boundary Values
+-30.0 1.6
+-30.0 1.6
+-30.0 1.6
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+-30.0 1.6
